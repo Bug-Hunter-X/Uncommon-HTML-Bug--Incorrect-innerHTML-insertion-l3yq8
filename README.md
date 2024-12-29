@@ -1,0 +1,1 @@
+This repository demonstrates an uncommon HTML bug related to the use of innerHTML.  The bug may not manifest in modern browsers, but older browsers with less robust HTML parsers may exhibit unexpected behavior, potentially leading to rendering issues or script errors. The solution shows a more robust method to avoid this.
